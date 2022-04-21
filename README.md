@@ -3,7 +3,10 @@ Collecting motor repair shop data (name, location, opening hours, etc) in Jogjak
 
 1. We will need python3+ and this python package. Install the package by running the following command.
 
-|| pip install google-services-api
+<html>
+  <head>
+    <title>pip install google-services-api</title>
+  </head>
 
 
 2. Get our personal API key from the google developer site https://developers.google.com/maps. It requires you to sign up and sign in using google account.
