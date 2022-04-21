@@ -5,7 +5,7 @@ Collecting motor repair shop data (name, location, opening hours, etc) in Jogjak
 
 <html>
   <head>
-    <title>pip install google-services-api</title>
+    pip install google-services-api
   </head>
 
 
